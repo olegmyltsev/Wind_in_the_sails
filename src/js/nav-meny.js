@@ -1,13 +1,11 @@
-const navMeny = document.getElementById("navMeny"),
-    navItems = document.getElementsByClassName("header__nav-item")
+const navItem = document.querySelectorAll('.nav-meny__item')
 
-for (let index = 0; index < navItems.length; index++) {
-    navItems[index].addEventListener("click", function(){
-
-        for (let index = 0; index < navItems.length; index++) {
-            navItems[index].classList.remove("header__nav-item_active")
-        }
-        this.classList.toggle("header__nav-item_active")
-    })    
-}
+navItem.forEach(e => {
+    e.addEventListener('click', (item)=>{
+        navItem.forEach(e=>{
+            e.classList.remove('nav-meny__item-active')
+        })
+        item.target.classList.toggle('nav-meny__item-active')
+    })
+});
 

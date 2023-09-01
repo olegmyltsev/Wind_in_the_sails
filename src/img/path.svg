@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="149.57257mm"
+   height="35.695107mm"
+   viewBox="0 0 149.57256 35.695107"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="path.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="283"
+     inkscape:cy="94.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.44987176,-9.6588483e-5)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M -0.34387186,21.695833 C 1.5216968,17.659209 5.1822983,14.493283 9.4457114,13.229167 11.439571,12.637981 13.56806,12.449216 15.614381,12.820089 c 2.046321,0.370874 4.005139,1.31711 5.472997,2.790327 1.261425,1.26603 2.130123,2.877811 2.751845,4.553366 0.621723,1.675556 1.01077,3.426397 1.428656,5.164038 0.417885,1.737642 0.869931,3.478276 1.60793,5.105969 0.737999,1.627692 1.780851,3.150068 3.207402,4.226627 2.083966,1.572682 4.837644,2.066708 7.434924,1.80141 2.597279,-0.265298 5.072154,-1.228395 7.436089,-2.336571 2.363935,-1.108177 4.659627,-2.372669 7.100063,-3.300307 2.440437,-0.927638 5.071371,-1.513411 7.662257,-1.191615 3.137118,0.389639 5.941856,2.057203 8.824556,3.354649 1.44135,0.648724 2.93335,1.214109 4.491685,1.478542 1.558334,0.264433 3.19415,0.216229 4.675425,-0.335274 1.822347,-0.67849 3.30236,-2.074868 4.439141,-3.652533 1.136782,-1.577664 1.971271,-3.347749 2.863537,-5.075511 0.892267,-1.727761 1.863944,-3.444388 3.219494,-4.838584 1.35555,-1.394196 3.147485,-2.451514 5.088245,-2.572956 1.892489,-0.118421 3.772957,0.672393 5.204468,1.915902 1.431511,1.24351 2.446765,2.908737 3.169355,4.661847 1.44519,3.506221 1.78707,7.393408 3.26784,10.884751 1.67915,3.959077 4.80986,7.250016 8.59318,9.294601 3.78332,2.044585 8.18806,2.86082 12.47341,2.500839 4.28535,-0.35998 8.44503,-1.873171 12.06991,-4.187051 3.62489,-2.313881 6.72169,-5.414567 9.19684,-8.931305 0.36608,-0.520134 0.71901,-1.049526 1.05833,-1.5875"
+       id="path4"
+       inkscape:path-effect="#path-effect4"
+       inkscape:original-d="M -0.34387186,21.695833 C 3.0957114,18.697222 6.182517,16.051389 9.4457114,13.229167 c 3.2631946,-2.822223 7.7611106,1.587499 11.6416666,2.381249 3.880555,0.79375 5.997223,12.7 8.995833,19.05 2.99861,6.35 19.755556,-3.351389 29.633333,-5.027083 9.877777,-1.675694 11.994443,2.99861 17.991666,4.497917 5.997224,1.499306 10.406944,-10.759723 15.610417,-16.139584 5.203473,-5.379861 7.761113,11.641667 11.641663,17.4625 3.88056,5.820833 28.22223,-0.881943 42.33334,-1.322916 14.11111,-0.440974 0.70555,-1.058334 1.05833,-1.5875"
+       transform="translate(1.2476217,-12.129488)" />
+  </g>
+</svg>
