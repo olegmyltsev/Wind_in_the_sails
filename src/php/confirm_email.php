@@ -22,6 +22,6 @@ $message = '
 </html>
 ';
 
-mail($email, "Подтвердите Email на сайте", $message, "To: <$email>\r\n");
+mail($email, "Подтвердите Email на сайте", $message, 'From:  webmaster@example.com');
 
 ?>
