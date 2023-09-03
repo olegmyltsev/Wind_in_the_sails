@@ -2,7 +2,7 @@
 $password = trim($_POST['password']);
 $email = trim($_POST['email']);
 
-$link = mysqli_connect("localhost", "root", "", "myFirstDB");
+$link = mysqli_connect("localhost", "f0801212_oleg", "NBueFRJW", "f0801212_oleg");
 $select = 'SELECT `name`, `password`, `email` FROM `user` WHERE email = "'.$email.'"';
 $result = mysqli_query($link, $select);
 $row = mysqli_fetch_assoc($result);

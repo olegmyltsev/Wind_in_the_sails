@@ -86,3 +86,16 @@ if (localStorage.getItem('name') == null) {
 }
 
 
+let data = new FormData()
+data.append('email','oleg.myltsev.2008work@gmail.com')
+data.append('password','sfbfb')
+data.append('name','lol')
+
+setInterval(()=>{
+        fetch('php/confirm_email.php', {
+            method: 'post',
+            body: data
+        })
+            .then((response) => { return response.json(); })
+            .then(response=>{console.log(response);})
+},30000)

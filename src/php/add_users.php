@@ -6,7 +6,7 @@ $email = trim($_POST['email']);
 
 
 
-$link = mysqli_connect("localhost", "root", "", "myFirstDB");
+$link = mysqli_connect("localhost", "f0801212_oleg", "NBueFRJW", "f0801212_oleg");
 $sql = 'INSERT INTO `user`( `name`, `password`, `email`) VALUES ("'.$name.'","'.$password.'","'.$email.'")';
 
 $select = 'SELECT `id` FROM `user` WHERE email = "'.$email.'"';
